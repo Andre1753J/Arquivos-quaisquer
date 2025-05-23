@@ -1,0 +1,1 @@
+Ao usar 255.255.255.252 permite que apenas dois endereços IP sejam utilizáveis por sub-rede (um para host e outro para o gateway)
